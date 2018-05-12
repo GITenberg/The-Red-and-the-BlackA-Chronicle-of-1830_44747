@@ -1,0 +1,43 @@
+_repo: The-Red-and-the-BlackA-Chronicle-of-1830_44747
+_version: 0.1.0
+alternative_title: Le rouge et le noir. English
+contributor:
+  translator:
+    agent_name: Samuel, Horace Barnett
+    alias: Samuel, Horace B. (Horace Barnett)
+    birthdate: 1883
+    deathdate: 1950
+    gutenberg_agent_id: '42900'
+    url: http://www.gutenberg.org/2009/agents/42900
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Beyle, Marie Henri
+    - Marie-Henri Beyle
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia: http://en.wikipedia.org/wiki/Stendhal
+description: ''
+gutenberg_issued: '2014-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- France -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Church and state -- Fiction'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Ambition -- Fiction'
+- !lcsh 'Bildungsromans'
+title: 'The Red and the Black: A Chronicle of 1830'
+url: http://www.gutenberg.org/ebooks/44747
