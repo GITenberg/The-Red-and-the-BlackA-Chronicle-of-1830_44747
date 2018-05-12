@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/418
     wikipedia: http://en.wikipedia.org/wiki/Stendhal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44747#The-Red-and-the-BlackA-Chronicle-of-1830
 gutenberg_issued: '2014-01-24'
 gutenberg_type: Text
 identifiers:
